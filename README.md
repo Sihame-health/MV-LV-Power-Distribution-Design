@@ -1,7 +1,7 @@
 
 # MV/LV Electrical Network Design — Residential Subdivision (ASSAFA4)
 
-End-of-studies internship project (Associate's Degree in Electrical Engineering) carried out at **ONEE** (Office National de l'Électricité et de l'Eau Potable / National Office of Electricity and Drinking Water), Electricity Branch, Agadir — Regional Distribution Directorate, Technical Division, Reasearch & Projects Department.
+End-of-studies internship project (Associate's Degree in Electrical Engineering- 2021) carried out at **ONEE** (Office National de l'Électricité et de l'Eau Potable / National Office of Electricity and Drinking Water), Electricity Branch, Agadir — Regional Distribution Directorate, Technical Division, Reasearch & Projects Department.
 
 ## Overview
 
